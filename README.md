@@ -1,4 +1,4 @@
-# AnimatedFXWheelImages
+# Animated Pinball FX Wheel Images of DOFLinx Back Glasses
 Animated wheel images of the DOFLinx FX linked back glasses
 
 Intially created by @scutters , thank you.
